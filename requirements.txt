@@ -1,3 +1,4 @@
 transformers
 pydub
 PyPDF2
+speechrecognition
