@@ -3,5 +3,4 @@ pydub
 PyPDF2
 speechrecognition
 sentencepiece
-pytorch
-torch
+torch torchvision torchaudio
